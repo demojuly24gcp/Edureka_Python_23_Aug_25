@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Session 1+2: https://colab.research.google.com/drive/1c92-ta2MKRA1_h4FVyHfN9h8TaOV9hzL?usp=sharing
 
 
@@ -5,3 +6,6 @@ Session 3: Heart case study
 
 Colab link: https://colab.research.google.com/drive/1LNAT8azNGIlcxe7AnhLNgizjeHVvXFam?usp=sharing
 
+=======
+Session 1 & 2 (same notebook): https://colab.research.google.com/drive/1c92-ta2MKRA1_h4FVyHfN9h8TaOV9hzL?usp=sharing
+>>>>>>> 2a98e4ebe3fc1c6ecad0ec0bee5ab00d38346759
