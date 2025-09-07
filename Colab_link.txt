@@ -6,6 +6,8 @@ Session 3&4: Heart case study
 
 Colab link: https://colab.research.google.com/drive/1ZkR3zpsngUnuH-WoacdHLDRNlG_fmC2m?usp=sharing
 
+Session 3&4: Cereal case study
+Colab link: https://colab.research.google.com/drive/1FNC-lKoY75O6rwhC2GDPklDYkX5IUpi7?usp=sharing
 =======
 Session 1 & 2 (same notebook): https://colab.research.google.com/drive/1c92-ta2MKRA1_h4FVyHfN9h8TaOV9hzL?usp=sharing
 >>>>>>> 2a98e4ebe3fc1c6ecad0ec0bee5ab00d38346759
